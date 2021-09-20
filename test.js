@@ -5,3 +5,6 @@ console.log('test file')
 const fn = () => {
 	console.log('asdsd')
 }
+const fn = () => {
+	console.log('asdsd')
+}
